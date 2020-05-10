@@ -32,7 +32,7 @@ Started coding in colab.
 Next problem encountered was to handle large number of images generated in colab.
 Used zip folder, to flush, generated images into zipfile.
 Finally after several attempts able to generate 400k fgbg and fgbg_mask images in jest 1 hour 30 minutes and able to store them in zip file with-out colapsing the drive.
-![Image](https://github.com/mounikaduddukuri/S15A/blob/master/fgbg.png
+![Image](https://github.com/mounikaduddukuri/S15A/blob/master/fgbg.png)
 
 
 ## Depth estimation of 400k overlay images   
